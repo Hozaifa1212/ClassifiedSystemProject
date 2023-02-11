@@ -1,0 +1,55 @@
+#table2 {
+    height: 720px;
+    width: 100%;
+    background-color: #edeff0;
+  }
+  #table1 {
+    height: 600px;
+    width: 80%;
+    border-radius: 20px;
+    background-color: #fff7f4;
+  }
+  #table3 {
+    margin-left: 80px; 
+    height: 500px;
+    width:70%;
+    background-color: #fff7f4;
+  }
+  #logo
+  {
+    font-family: "Brush Script MT", cursive, sans-serif;
+    font-size: 30px;
+    color: #8b0000;
+}
+  #img {
+    height: 300px;
+    width: 70%;
+    background-color: powderblue;
+  }
+#corner{
+    border-radius: 20px;
+}
+#margin
+{
+    margin-left: 80px; 
+}
+.button {
+    background-color: #cb4154; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .button:hover {
+    background-color: #1d447b; /* Green */
+    color: white;
+  }
+  textarea.text-scroll{
+    overflow-y: visible;
+  }
+  
+  

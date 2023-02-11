@@ -1,0 +1,76 @@
+#table1 {
+    height: 120px;
+    width: 100%;
+    background-color: #102a4f;
+  }
+  #table2 {
+    margin-left: 80px;
+    height: 600px;
+    width: 75%;
+    background-color: #ff7f50;
+  }
+  #table3 {
+    border-collapse: collapse;
+    height: 600px;
+    width: 100%;
+    background-color: #ffffff;
+  }
+#logo
+  {
+    font-family: "Brush Script MT", cursive, sans-serif;
+    font-size: 40px;
+    color: #fb582f;
+}
+
+#paragraph {
+  border-radius: 15px;
+  background: #6cdcd3;
+  padding: 8px; 
+  width: 190px;
+  height: 150px;  
+}
+#img {
+  height: 130px;
+  width: 70%;
+  background-color: powderblue;
+}
+.button {
+    background-color: #102a4f; /* Green */
+    border: none;
+    color: #ffcba4;
+    padding: 8px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+  }
+  
+  .button:hover {
+    background-color: #cb4154; /* Green */
+    color: white;
+  }
+#userimg{
+  border-radius: 50%;
+  height: 85px;
+  width: 45%;
+}
+  
+.button1 {
+    background-color: #6cdcd3; /* Green */
+    border: none;
+    color: #102a4f;
+    padding: 6px 20px;
+    text-align: center;
+    border-radius: 12px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    transition-duration: 0.4s;
+  }
+  .button1:hover {
+    background-color: #fb582f; /* Green */
+    color: white;
+  }
+  
+  
